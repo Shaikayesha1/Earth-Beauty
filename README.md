@@ -23,8 +23,11 @@ Our initiative is to create awarness amoung people to admire themselves.This pro
 
  Dont think much and join our program and build a healthy life and gain natural beauty.
 
-## Demo
+## my project link
 
+https://victorious-sand-06fe06e10.1.azurestaticapps.net
+
+## my github project link 
 
 https://shaikayesha1.github.io/Earth-Beauty/ 
 
