@@ -16,7 +16,7 @@ Our initiative is to create awarness amoung people to admire themselves.This pro
  * Static Web App
  * Visual Studio Code
  
- https://github.com/Shaikayesha1/Earth-Beauty/blob/master/images/MS%20Static%20-%20Earth%20Beauty.jpg
+ ![static Web app](https://github.com/Shaikayesha1/Earth-Beauty/blob/master/images/MS%20Static%20-%20Earth%20Beauty.jpg)
  
  
  Our website include : 
