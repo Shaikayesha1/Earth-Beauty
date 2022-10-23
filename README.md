@@ -18,7 +18,7 @@ Our initiative is to create awarness amoung people to admire themselves.This pro
  
  ![static Web app](https://github.com/Shaikayesha1/Earth-Beauty/blob/master/images/MS%20Static%20-%20Earth%20Beauty.jpg)
  
- 
+ ![Visual studio code](https://github.com/Shaikayesha1/Earth-Beauty/blob/master/images/VS%20code%20-%20earth%20beauty.jpg?raw=true) 
  Our website include : 
  * home 
  * gallery
