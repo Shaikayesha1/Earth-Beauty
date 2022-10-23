@@ -12,6 +12,13 @@ Our initiative is to create awarness amoung people to admire themselves.This pro
 
  we provide different natural techniques so that our customers can develop a healthy lifestyle.
  
+ ## Azure Technology Used:
+ * Static Web App
+ * Visual Studio Code
+ 
+ https://github.com/Shaikayesha1/Earth-Beauty/blob/master/images/MS%20Static%20-%20Earth%20Beauty.jpg
+ 
+ 
  Our website include : 
  * home 
  * gallery
